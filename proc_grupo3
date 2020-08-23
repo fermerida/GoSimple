@@ -1,0 +1,9 @@
+{
+    "resumen":{
+        "TOTAL":103,
+        "RUN":1, 
+        "SLEEP":102, 
+        "STOPPED":0, 
+        "ZOMBIE":0
+        }
+}
